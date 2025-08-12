@@ -1,3 +1,6 @@
+MEETMEUP
+
+
 A backend implementation for a Zoom-like video conferencing platform built with Node.js, Express, Socket.IO, and MongoDB.
 This server handles real-time communication, user authentication, and room management for the Meetmeup video chat application.
 
